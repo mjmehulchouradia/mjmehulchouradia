@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mjmehulchouradia
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development and cloud technologies
-- 💞️ I’m looking to collaborate projects involving web development
+- 👀 I’m currently learning Full Stack Java Development
+- 💬 Ask me about Java, Spring Framework, Oracle Apps
+- 📫 How to reach me mehulchouradia@gmail.com
 - 📫 Linkedin: https://www.linkedin.com/in/mehul-chouradia/
 
 <!---
